@@ -1,0 +1,8 @@
+streamlit
+youtube transcript api
+sentence transformers
+faiss
+google generativeai
+numpy
+python
+transformers

@@ -1,0 +1,1 @@
+An AI-powered application that allows users to ask questions about any YouTube video. The system extracts the video's transcript, retrieves the most relevant sections using semantic search, and generates answers using Google Gemini LLM.
