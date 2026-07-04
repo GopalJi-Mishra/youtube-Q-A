@@ -1,8 +1,9 @@
-streamlit
-youtube transcript api
-sentence transformers
-faiss
-google generativeai
+sentence-transformers
+faiss-cpu
 numpy
-python
+google-generativeai
+torch
 transformers
+scikit-learn
+scipy
+huggingface-hub

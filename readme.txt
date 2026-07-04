@@ -1,1 +1,6 @@
-An AI-powered application that allows users to ask questions about any YouTube video. The system extracts the video's transcript, retrieves the most relevant sections using semantic search, and generates answers using Google Gemini LLM.
+The project:
+- Splits a text into chunks.
+- Converts the chunks into embeddings using Sentence Transformers.
+- Stores the embeddings in a FAISS vector database.
+- Finds the most relevant chunks for a user's question.
+- Sends the retrieved context to the Gemini API to generate an answer.
